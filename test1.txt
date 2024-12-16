@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <title> RECCSAR PRIVATE LIMITED</title>
+	</head>
+	<body>
+	<!--------Company Name------->
+	<h1>Recssar Private Limited</h1>
+	<!-------courses available----->
+	<ul type="square">
+			<li>full stack development</li>		
+			<li>Machine Learning</li>
+			<li>Cyber Security</li>
+			<li>Cloud Computing</li>
+			<li>Data Science</li>
+	</ul>
+	<!-------Fees Structures------->
+	<table border=1>
+		<th>S.no</th>
+		<th>Course Name</th>
+		<th>Period</th>
+		<th>Amount</th>
+	<tr>
+		<td>1</td>
+		<td>full stack developement</td>
+		<td rowspan=5>one month</td>
+		<td>3000</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Machine Learning</td>
+		<td>2600</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Cyber Security</td>
+		<td>2800</td>
+	</tr>
+	<tr>
+		<td>4</td>
+        <td>Cloud Computing</td>
+		<td>3200</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Data Science</td>
+		<td>1800</td>
+	</tr>
+	<!---------Website link------->
+	<iframe src="https://reccsar.com/"width=800px height=500px></iframe>
+	<!---------company Logo------->
+	<img src="assets/image/reccsar.jpg"/>
+	<!---------company address------>
+	<div style="color:red">
+	  <h2>1/6,First Floor,VP Rathinasamy Nadar Road,Madurai,Tamil Nadu,Pincode:625014</h2>
+	</div style>
+	<!--------- Mobile number------->
+	<div style="color:green">
+		<h1>MOBILE NUMBER:8525969655</h1>
+	</div>	
+	<!-------Eligibility Criteria------>
+	<ol>
+	<div style="color:blue">
+		<li>After 12th</li>
+		<li>After Completing UG</li>
+		<li>After Completing PG</li>
+	</div>
+	</ol>		
+     </table>
+	</body>
+</html>	
+		
+			
