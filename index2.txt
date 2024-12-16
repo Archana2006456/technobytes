@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Link</title>
+	</head>
+	<body>
+		<h1>Mahabharatham</h1>
+		<h2>Mahabharatham</h2>
+		<h3>Mahabharatham</h3>
+		<h4>Mahabharatham</h4>
+		<h5>Mahabharatham</h5>
+		
+	    <h6>Mahabharatham</h6>
+		<b> archana</b><br/>
+		<i>aathi</i><br/>
+		<u>sonaimuthu</u><br/>
+		<small>kannaki</small><br/>
+		<ins>computer</ins><br/>
+		<del>laptop</del><br/>
+		<sub>college</sub><br/>
+		<sup>school</sup><br/>
+		<mark>technology</mark><br/>
+		<ol type="a">
+			<li>square</li>
+			<li>square</li>
+			<li>square</li>
+			<li>square</li>
+		</ol>
+		<ul type="square">
+			<li>pen</li>
+			<li>pen</li>
+		</ul>
+		<ul type="Disc">
+			<li>tree</li>
+			<li>tree</li>
+		</ul>	
+		<dl>
+			<dt>who is your sister?</dt>
+			<dd>abi</dd>
+			<dt>who is your brother?</dt>
+			<dd>aathi</dd>
+		</dl>
+		
+		
+		
+		<table border=1>
+			<th>S.No</th>
+			<th>Name</th>
+			<th>Department</th>
+			<th>Address</th>
+		<tr>
+			<td>1</td>
+			<td>Archana</td>
+			<td rowspan=2>ECE</td>
+			<td>Madurai</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Aishu</td>
+			<td rowspan=2>Karaikudi</td>
+	
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Ilakkya</td>
+			<td> CSE</td>
+			
+		</tr>
+		</table>	
+		<h1>&copy</h1>
+		<h1>&#174</h1>
+		<iframe src=https://www.arduino.cc/en/software width=500px height=500px></iframe>
+		<iframe src=https://www.flipkart.com/?s_kwcid=AL!739!3!676201929245!b!!g!!flipkart&gclsrc=aw.ds&&semcmpid=sem_8024046704_brand_exe_buyers_goog&gad_source=1&gclid=EAIaIQobChMIzIrJlO2figMVShiDAx3Y8yN-EAAYASAAEgI90vD_BwE"width=350px height=350px></iframe>
+		<img src="assets/image/karnan.jpg" height=350px width=350px/>
+		<img src="assets/image/s.jpg" height=350px width=350px/>
+		<a href=""></a>
+		<a href="">home</a>
+		<a href="#">about</a>
+		<a href="https://www.google.com/search?q=youtube+link&sca_esv=3c1a55819b6b7e41&udm=2&biw=1280&bih=585&ei=qzRZZ5CnBcWe4-EP39bcKQ&oq=you&gs_lp=EgNpbWciA3lvdSoCCAMyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgsQABiABBixAxiDATIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBSK5ZUJYKWNkycAJ4AJABApgBbqABgAyqAQQxMi40uAEByAEA-AEBmAIFoAKRA6gCAMICBRAAGIAEwgIGEAAYBxgewgIEEAAYHsICBhAAGAUYHsICBhAAGAgYHpgDAogGAZIHAzIuM6AHvU0&sclient=img"target="_blank">login</a>
+		
+		<a href=index.html"target=_blank">document</a><br/>
+		<a href="#data">move</a>
+		<form action="">
+			<input type="text" placeholder="enter the name="user"/>
+			<label.for="fname">First Name:</label>
+			<input type="text"id="frame">
+			<input type="number"placeholder="enter the name"min=0 max=100/>
+			<input type="radio"name=""/>yes
+			<input type="radio"name=""/>No
+			<input type="radio"Name=""/>correct
+			<input type="radio"Name=""/>incorrect<br/>
+			<input type="check box"name=""/>this is laptop<br/>
+			<input type="button"value="click"/><br/>
+			<input type="button"value="submit"/><br/>
+			<input type="button"value="refresh"/><br/>
+			<input type="button"value="time"/><br/>
+			<input type="range"/>
+			<textarea rows=10 cols=20></textarea>
+			<select>
+				<option value=1>madurai</option>
+				<option value=2>chennai</option>
+				<option value=3>trichy</option>
+				<option value=4>coimbatore</option>
+			</select>
+		<form action="">
+			<div style="color:red">
+				<center><b>Application Form</b></center><br/>
+			</div>	
+				<center>Enter your name:<input type="text"placeholder="enter the name"name="user"/></center><br/>
+			    <center>Enter Your Father name:<input type="text"placeholder="enter father name"name="user"/></center><br/>
+			   <center>Enter Your Mother name:<input type="text"placeholder="enter mother name"name="user"/></center><br/>
+			    <center>Gender:<input type="radio"name=""/>Female
+					   <input type="radio"name=""/>Male</center><br/>
+			   <center>Date of birth:<input type="date"/></center><br/>
+				<center>Nationality:<input type="text"/></center><br/>
+				
+				
+				<center>Maritial status:<input type="checkbox"name=""/>Married
+								<input type="checkbox"name=""/>Unmarried</center><br/>
+				<center>Address:<input type="text"placeholder="enter the address"name="user"/></center><br/>
+				<center>Mobile number:<input type="number"placeholder="enter the number"name="user"/></center><br/>
+				<center>Email Id:<input type="text"placeholder="enter the id"name="user"/></center><br/>
+				<center>Father's Occupation:<input type="text"placeholder="enter the Occupation"name="user"/></center><br/>
+				<center>Mother's Occupation:<input type="text"placeholder="enter the Occupation"name="user"/></center><br/>
+				<center>Annual Income:<input type="number"placeholder=""enter the income"name="user"/></center><br/>
+				<select>
+				<center>
+				District:<option value=1>madurai</option>
+				<option value=2>others</option></center>
+				</select>
+				
+				
+			
+	</body>	
+</html>	
+		
